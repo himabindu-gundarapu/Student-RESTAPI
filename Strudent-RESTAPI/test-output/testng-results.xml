@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2387" started-at="2021-05-23T16:59:06 PDT" finished-at="2021-05-23T16:59:09 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2387" started-at="2021-05-23T16:59:06 PDT" finished-at="2021-05-23T16:59:09 PDT">
+      <class name="com.qa.Student.StudentTestcase">
+        <test-method status="PASS" signature="verifyJsonResponse()[pri:0, instance:com.qa.Student.StudentTestcase@fad74ee]" name="verifyJsonResponse" duration-ms="2337" started-at="2021-05-23T16:59:06 PDT" finished-at="2021-05-23T16:59:09 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJsonResponse -->
+      </class> <!-- com.qa.Student.StudentTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
